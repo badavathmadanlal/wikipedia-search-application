@@ -10,26 +10,6 @@ This application provides a simple and user-friendly interface to search Wikiped
 
 ---
 
-## 📸 Application Preview
-
-### Home Page
-
-![Home Page](home.png)
-
----
-
-### Search Results
-
-![Search Results](search-results.png)
-
----
-
-### Wikipedia Article
-
-![Wikipedia Page](wikipedia-page.png)
-
----
-
 ## 🚀 Features
 
 - Search Wikipedia articles in real-time
@@ -84,22 +64,6 @@ This application provides a simple and user-friendly interface to search Wikiped
 
 ---
 
-## 📷 Screenshots
-
-### Home Screen
-
-Shows the search interface.
-
-### Search Results
-
-Displays matching Wikipedia articles with links.
-
-### Article Page
-
-Redirects users to the official Wikipedia page.
-
----
-
 ## 🌐 API Used
 
 Wikipedia Search API
@@ -115,4 +79,4 @@ https://en.wikipedia.org/w/api.php
 **Badavath Madanlal**
 
 - GitHub: https://github.com/badavathmadanlal
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: linkedin.com/in/badavathmadanlal
